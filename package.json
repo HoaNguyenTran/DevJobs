@@ -1,9 +1,9 @@
 {
-  "name": "@zetagroup/fjob",
-  "version": "2.0.0",
-  "description": "Fjob | Get jobs in minutes",
+  "name": "DevJob",
+  "version": "1.0.0",
+  "description": "DevJob",
   "title": "Fjob",
-  "author": "Zeta Group",
+  "author": "hoatep",
   "keywords": [
     "react",
     "nextjs",

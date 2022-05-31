@@ -8,7 +8,7 @@
 - [TypeScript](https://www.typescriptlang.org/)
 - [Redux](https://redux.js.org/)
 - [Redux-saga](https://redux-saga.js.org/)
-- [Ant Design](https://ant.design/index-cn)
+- [Ant Design](https://ant.design/)
 
 ## Installation
 
@@ -92,8 +92,3 @@ Please make sure to update tests as appropriate.
 ## Git conventions
 - commit: feat/ chore/ fixup/ style/ refactor 
 - branch: feat/ chore/ hotfix/
-
-## Develop team
-1. Nguyễn Trần Hoà - hoanguyentrandev@gmail.com - (hoa.nt - Hoa Nguyen Tran - Thomas Nguyen - hoatep)
-2. Nguyễn Văn Đạt
-3. Trần Quân Đạt
