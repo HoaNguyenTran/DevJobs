@@ -1,0 +1,16 @@
+.candidate {
+  .candidate_wrap {
+    max-width: 992px;
+    margin: 0 auto;
+  }
+  .candidate_view {
+    text-align: center;
+    margin: .5rem;
+    .btn {
+      color: white;
+      background-color: var(--primary-color);
+      border-radius: var(--border-radius);
+      height: 3.5rem;
+    }
+  }
+}
